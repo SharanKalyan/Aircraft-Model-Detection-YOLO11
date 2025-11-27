@@ -1,0 +1,14 @@
+train: /content/drive/MyDrive/data/images/train
+val:   /content/drive/MyDrive/data/images/val
+
+nc: 9
+names:
+  - "Airbus A320"
+  - "Airbus A330"
+  - "Airbus A340"
+  - "Airbus A350"
+  - "Airbus A380"
+  - "Boeing 737"
+  - "Boeing 747"
+  - "Boeing 777"
+  - "Boeing 787 Dreamliner"
