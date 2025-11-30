@@ -3,12 +3,25 @@ I’ve been running a fun experiment on identifying different airplane models. I
 
 # Here are some results! 
 
+## Boeing 787 Dreamliner
+
 ![787_ethihad](https://github.com/user-attachments/assets/0df42dfc-ba67-41c2-97f8-00883b45617c)
+
+## Airbus A380
 
 ![A380](https://github.com/user-attachments/assets/bef7216f-194b-48ee-97bb-e6363192a424)
 
+## Boeing 737
+
 ![Boeing-737](https://github.com/user-attachments/assets/6ff82f03-1315-4792-a7ab-83549195c468)
 
+## Boeing 777
+
 ![Boeing777](https://github.com/user-attachments/assets/745a35e3-3742-4261-9e0e-dd781b6fe9ed)
+
+## Airbus A350
+
+![Singapore_A350](https://github.com/user-attachments/assets/dd83ca72-4759-4d02-83aa-8886b7318765)
+
 
 # You can find more results in "Result-gifs" directory. 
