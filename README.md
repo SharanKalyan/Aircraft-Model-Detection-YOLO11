@@ -28,4 +28,4 @@ I’ve been running a fun experiment on identifying different airplane models. I
 ![Singapore_A350](https://github.com/user-attachments/assets/dd83ca72-4759-4d02-83aa-8886b7318765)
 
 
-# You can find more results in "Result-gifs" directory. 
+# You can find more results / examples in "./Result-gifs" directory!
